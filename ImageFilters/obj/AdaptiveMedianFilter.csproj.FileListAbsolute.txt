@@ -1,0 +1,16 @@
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Adaptive Median\AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Adaptive Median\AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.Properties.Resources.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Adaptive Median\AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Adaptive Median\AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.Form1.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Adaptive Median\AdaptiveMedianFilter\AdaptiveMedianFilter\bin\Debug\AdaptiveMedianFilter.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Adaptive Median\AdaptiveMedianFilter\AdaptiveMedianFilter\bin\Debug\AdaptiveMedianFilter.pdb
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Adaptive Median\AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\PROJECTs\Adaptive Median\AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\[ALGO'09] ALL MATERIALS\PROJECTs\Adaptive Median\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\[ALGO'09] ALL MATERIALS\PROJECTs\Adaptive Median\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\[ALGO'09] ALL MATERIALS\PROJECTs\Adaptive Median\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\[ALGO'09] ALL MATERIALS\PROJECTs\Adaptive Median\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.Form1.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\[ALGO'09] ALL MATERIALS\PROJECTs\Adaptive Median\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.Properties.Resources.resources
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\[ALGO'09] ALL MATERIALS\PROJECTs\Adaptive Median\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.csproj.GenerateResource.Cache
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\[ALGO'09] ALL MATERIALS\PROJECTs\Adaptive Median\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\bin\Debug\AdaptiveMedianFilter.exe
+C:\Documents and Settings\Doty\Desktop\COLLEGE WORK\Algorithms 2009\[ALGO'09] ALL MATERIALS\PROJECTs\Adaptive Median\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\bin\Debug\AdaptiveMedianFilter.pdb

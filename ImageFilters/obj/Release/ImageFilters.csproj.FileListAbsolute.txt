@@ -1,0 +1,40 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojAssemblyReference.cache
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+E:\Education\Algorithms\Algorithms August 2021\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Abdul\Documents\College\Semester 4\Algorithms\Project\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb

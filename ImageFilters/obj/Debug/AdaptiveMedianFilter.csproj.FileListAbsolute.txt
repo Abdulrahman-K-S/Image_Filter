@@ -1,0 +1,15 @@
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\bin\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\bin\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\bin\Debug\ZedGraph.dll
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.Form1.resources
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.Properties.Resources.resources
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\ResGen.read.1.tlog
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\ResGen.write.1.tlog
+C:\Users\Ahmed\Desktop\ALGO 2011\PROJECT IDEAS\[ALG'10] PROJECTs\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.ZGraphForm.resources
+C:\Users\Ahmed\Desktop\ALGO 2011\[ALG'11] PROJECTS\RELEASE\ADAPTIVE IMAGE FILTER\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ahmed\Desktop\ALGO 2011\[ALG'11] PROJECTS\RELEASE\ADAPTIVE IMAGE FILTER\ADAPTIVE IMAGE FILTER\[TEMPLATE] AdaptiveMedianFilter\AdaptiveMedianFilter\obj\Debug\AdaptiveMedianFilter.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Debug\AdaptiveMedianFilter.pdb
